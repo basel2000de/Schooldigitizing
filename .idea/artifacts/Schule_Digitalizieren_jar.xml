@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Schule_Digitalizieren:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Schule_Digitalizieren_jar</output-path>
+    <root id="archive" name="Schule_Digitalizieren.jar">
+      <element id="module-output" name="Schule_Digitalizieren" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/pdfbox-app-2.0.27.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
